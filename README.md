@@ -10,8 +10,4 @@ mouse aiming ctrl+f fullscreen off/on and W to read signposts. Total compatible 
 2.Select the path where you want tp install the game.
 3.After what you installed it, you can run the game.
 
-___
- |  |  |     /\     |\   |  | /    \   /  __  |   |
- |  |__|    /  \    | \  |  |/      \ /  |  | |   |  
- |  |  |   /____\   |  \ |  |\       |   |  | |   |
- |  |  |  /      \  |   \|  | \      |   |__| |___|  
+Made using GameMaker Studio 2

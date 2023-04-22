@@ -10,4 +10,5 @@ mouse aiming ctrl+f fullscreen off/on and W to read signposts. Total compatible 
 2.Select the path where you want tp install the game.
 3.After what you installed it, you can run the game.
 
-Made using GameMaker Studio 2
+**If you want full version, you can get it here: https://gamestation23.itch.io/the-hidden-adventure**
+**Made using GameMaker Studio 2**

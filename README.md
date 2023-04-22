@@ -31,4 +31,5 @@ Graphics: Intel HD Graphics or NVIDIA equivalent or AMD equivalent									Graph
 RAM: 2 GB RAM																																				RAM: 3 GB RAM
 <br>																																	
 **If you want full version, you can get it here: https://gamestation23.itch.io/the-hidden-adventure**
+<br>
 **Made using GameMaker Studio 2**

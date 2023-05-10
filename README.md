@@ -1,8 +1,6 @@
-The Hidden Adventure 
+**The Hidden Adventure** 
+**By GameStation23**
 
-By GameStation23
-
-The hidden adventure - GameStation23.
 <br>
 Controls:
 <br>
@@ -18,7 +16,7 @@ Compatible with every resolution.
 
 **Instructions**
 1.Click on "The hidden adventure.exe" from where you extracted the file.
-2.Select the path where you want tp install the game.
+2.Select the path where you want to install the game.
 3.After what you installed it, you can run the game.
 
 **System requrements**

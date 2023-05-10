@@ -29,7 +29,7 @@ CPU: Intel Core i3 2th Gen or AMD Athlon II
 <br>																								
 Graphics: Intel HD Graphics or NVIDIA equivalent or AMD equivalent						
 <br>
-RAM: 2 GB RAM																																	
+RAM: 2 GB RAM	DDR2																																
 <br>	
 <br>
 **Recomended**
@@ -38,7 +38,7 @@ CPU: Intel Core i3 4th Gen or newer or AMD Athlon II 245 or newer
 <br>
 Graphics: Intel HD Grapics or newer or NVIDIA equivalent or newer or AMD equivalnt or newer
 <br>
-RAM: 3 GB RAM
+RAM: 4 GB RAM DDR3 or newer
 <br>
 <br>
 **If you want full version, you can get it here:** https://gamestation23.itch.io/the-hidden-adventure **(when it releases)**

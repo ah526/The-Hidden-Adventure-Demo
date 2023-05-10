@@ -1,5 +1,4 @@
-**The Hidden Adventure** 
-**By GameStation23**
+**The Hidden Adventure - by GameStation23**
 
 <br>
 Controls:
